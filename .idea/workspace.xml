@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570ec34a-7c51-4524-8c77-209bed27def6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__guru_springframework_chuck_norris_for_actuator_0_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/services/JokeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/services/JokeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/controllers/JokeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5-jokes-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring5-jokes-app/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring5-jokes-app/target/" />
@@ -50,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/services/JokeServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -61,6 +57,20 @@
                 <element signature="e#347#348#0" expanded="true" />
                 <element signature="e#150#151#0" expanded="true" />
                 <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/controllers/JokeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/spring5-jokes-app/pom.xml" />
         <option value="$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/services/JokeService.java" />
         <option value="$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/services/JokeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/controllers/JokeController.java" />
       </list>
     </option>
   </component>
@@ -170,7 +181,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jokeapp" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,12 +234,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560537489831</updated>
-      <workItem from="1560537505366" duration="1269000" />
+      <workItem from="1560537505366" duration="2307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1269000" />
+    <option name="totallyTimeSpent" value="2307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -313,6 +324,18 @@
             <element signature="e#347#348#0" expanded="true" />
             <element signature="e#150#151#0" expanded="true" />
             <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring5-jokes-app/src/main/java/guru/springframework/joke/jokeapp/controllers/JokeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
           </folding>
         </state>
       </provider>
